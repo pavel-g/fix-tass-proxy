@@ -1,0 +1,22 @@
+{
+  "name": "fix-tass-proxy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pavel-g/fix-tass-proxy.git"
+  },
+  "author": "Gnedov Pavel <pavel@gnedov.info>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pavel-g/fix-tass-proxy/issues"
+  },
+  "homepage": "https://github.com/pavel-g/fix-tass-proxy#readme",
+  "dependencies": {
+    "fix-tass": "https://github.com/pavel-g/fix-tass.git"
+  }
+}
